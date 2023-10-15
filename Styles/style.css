@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.first{
+    width: 100%;
+}
+.content{
+    width: 40%;
+    font-size: 30px;
+    margin-top: 250px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 100px;
+    float: left;
+}
+.heading{
+    font-weight: 200;
+    font-size: 70px;
+}
+.paragraph{
+    font-weight: 50;
+    font-family: ;
+}
+button{
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 30px;
+    border: none;
+}
+.image {
+    width: auto;
+}
+.image img{
+    width: 350px;
+    height: 700px;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+
+.back{
+    background: url(../images/background.jpeg);
+    height: 600px;
+    margin-top: -80px;
+    background-repeat: no-repeat;
+}
+.content2{
+    color: aliceblue;
+    float: left;
+    margin-top: 250px;
+    text-align: center;
+    /* padding: 50px; */
+    font-size: 15px;
+    margin-left: 40px;
+}
+.heading3{
+    font-weight: 200;
+    font-size: 40px;    
+}
+.paragraph2{
+    font-weight: 500;
+    font-size: 20px;
+    /* font-style: italic; */
+    /* font-family: 'Times New Roman', Times, serif; */
+}
+
+
+.content3{
+    width: 50%;
+    font-size: 30px;
+    margin-top: 250px;
+    margin-bottom: 300px;
+    margin-right: 150px;
+    margin-left: 400px;
+    color: black;
+    text-align: center;
+}
+.content3 button{
+    padding: 15px 30px;
+}
+
+
+.back2{
+    background: url(../images/background.jpeg);
+    height: 900px;
+    margin-top: -80px;
+    background-repeat: no-repeat;
+}
+/* .back2 h3{
+    color: aliceblue;
+    font-weight: 200;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 80px;
+    padding: 100px;
+} */
+.content4{
+    color: aliceblue;
+    float: left;
+    margin-top: 50px;
+    text-align: center;
+    padding: 50px;
+    font-size: 15px;
+    margin-left: 150px;
+    border: 2px dashed honeydew;
+    margin-bottom: 40px;
+}
+.content4 h2{
+    font-size: 50px;
+    padding: 30px;
+    margin-left: 40px;
+}
+.heading6{
+    color: aliceblue;
+    font-weight: 100;
+    font-family: Sans-serif;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 80px;
+    padding-top: 80px;
+}
+.paragraph6{
+    font-family: Sans-serif;
+    text-align: center;
+    padding: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+    color: aliceblue;
+}
